@@ -1,0 +1,1 @@
+{"name":"@sidestage/ms3","version":"0.0.1-alpha","private":true,"type":"module","scripts":{"build":"tsc -p tsconfig.json","test":"vitest run","typecheck":"tsc -p tsconfig.json --noEmit"},"dependencies":{"@sidestage/core":"workspace:*"},"devDependencies":{"typescript":"^5.8.3","vitest":"^3.2.7"}}
